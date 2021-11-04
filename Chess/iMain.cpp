@@ -1,3 +1,4 @@
+#pragma comment (lib, "legacy_stdio_definitions.lib")
 #include "iGraphics.h"
 #include "bitmap_loader.h"
 
