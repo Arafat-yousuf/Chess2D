@@ -1,0 +1,17 @@
+﻿Build started 1/28/2018 8:41:47 PM.
+     1>Project "E:\programming in 2nd semester\software developement                       1200\chess update2\Chess\Chess.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Chess.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Chess.vcxproj -> E:\programming in 2nd semester\software developement                       1200\chess update2\Debug\Chess.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Chess.unsuccessfulbuild".
+         Touching "Debug\Chess.lastbuildstate".
+     1>Done Building Project "E:\programming in 2nd semester\software developement                       1200\chess update2\Chess\Chess.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
